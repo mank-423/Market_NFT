@@ -1,8 +1,8 @@
 # NFT marketplace 
+<h4>This project is made using React, Tailwind CSS for front-end devlopment.</h4>
+<h4>Used truffle and ganache to test and deploy the smart contract which uses ERC 721 standard.</h4>
+<h4>Uses infura to acess the IPFS for decentralized storage.</h4>
 
-## This project is made using React, Tailwind CSS for front-end devlopment.
-## Used truffle and ganache to test and deploy the smart contract which uses ERC 721 standard.
-## Uses infura to acess the IPFS for decentralized storage.
 
 - ganache -d : Gives a consistent list of metamask accounts to import
 - truffle migrate: Deploying the smart contract
